@@ -1,0 +1,18 @@
+---
+title: "Assignment 4 - Lobsters"
+author: "Jamie K. Miller and Anna Perez-Welter"
+date: "November 14, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+Can do this in word/Google Docs.
+
+## Data, Data Analysis and Methods
+Can do this in word/Google Docs.
+
+## Results
